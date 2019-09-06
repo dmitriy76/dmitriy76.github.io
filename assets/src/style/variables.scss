@@ -1,0 +1,35 @@
+// Variables Bootstrap 4
+
+$black: #212212;
+$gray: #D4D1D1;
+$brown: #9E8B6B;
+
+$purple-light: #E1E0FE;
+$red: #FF9595;
+$blue: #95B7FF;
+$green: #95FFCE;
+$violet: #C995FF;
+$yellow: #FFEB95;
+
+$grid-breakpoints: (
+  xxs: 0,
+  xs: 376px,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1500px
+);
+
+$font-family-base: 'Roboto', sans-serif;
+$font-weight-base: 300;
+$link-hover-color: $brown;
+$navbar-nav-link-padding-x: 1rem;
+$navbar-light-color: $black;
+$body-color: $black;
+$navbar-toggler-padding-x: 0;
+$navbar-light-toggler-icon-bg: none;
+$container-max-widths: (
+  xxl: 1440px
+);
+$input-border-color: $gray;
