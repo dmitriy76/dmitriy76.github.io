@@ -8306,7 +8306,8 @@ a {
       .custom-col__inner--green:hover {
         background: #00fb87; }
   .custom-col__bottom {
-    height: 560px; }
+    height: 560px;
+    transition: all 0.2s ease 0s; }
     @media (max-width: 1499.98px) {
       .custom-col__bottom {
         height: 330px; } }
