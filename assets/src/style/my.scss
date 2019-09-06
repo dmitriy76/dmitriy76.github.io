@@ -318,6 +318,7 @@ a{
   }
   &__bottom{
     height: 560px;
+    @include transition;
     @include media-breakpoint-down(xl){
       height: 330px;
     }
